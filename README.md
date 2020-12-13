@@ -14,13 +14,13 @@ A Udacity Data Scientist Nanodegree Project
 
 There are some libraries that you need to install to run the code beyond the Anaconda distribution of Python. 
 Those libraries are detailed in the requierements.txt file, so be sure that you meet all the requirements (by installing them with 'pip3 install requirements.txt').
-The code should run with no issues using Python versions 3.*.
+The code should run with no issues using Python versions 3.* but if you find errors, please contact me.
 Be the force with you!
 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using StackOverflow 2020 Survey Dataset to better understand:
+For this project, I was interestested in using StackOverflow 2020 Survey Dataset and apply CRISP-DM methodology (Cross Industry Process for Data Mining) to better understand:
 
 Question 1: About the Gender Gap within Data Science enviroment: How is the Gender Proportion in this survey? Do women answer the same than men?
 
@@ -35,7 +35,7 @@ Question 5: How well can we predict an individual's job salary? What aspects cor
 
 ## File Descriptions <a name="files"></a>
 
-There are 1 notebooks available here to showcase work related to the above questions. The notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells & comments were used to assist in walking through the thought process for individual steps.
+There is a notebook available here to showcase work related to the above questions. The notebook is exploratory in searching through the data pertaining to the questions previously presented. Markdown cells & comments were used to assist in walking through the analysis process for individual steps.
 
 There are 3 folders, one for year (2020, 2019 and 2018) containing each one a zip file with two files (I had to upload them zipped as they exceed the maximum file limits of Github): 
 
