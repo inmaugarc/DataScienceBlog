@@ -42,7 +42,7 @@ You have to unzip those files, after download them.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@inmaugarc/data-exploration-).
+The main findings of the code can be found at the post available [here](https://inmaug.medium.com/4-tips-that-will-make-you-smarter-about-developers-trends-around-the-globe-11c43a2e8536).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
