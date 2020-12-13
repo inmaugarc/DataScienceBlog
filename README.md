@@ -23,14 +23,11 @@ Be the force with you!
 For this project, I was interestested in using StackOverflow 2020 Survey Dataset and apply CRISP-DM methodology (Cross Industry Process for Data Mining) to better understand:
 
 > * Question 1: About the Gender Gap within Data Science enviroment: How is the Gender Proportion in this survey? Do women answer the same than men?
-
 > * Question 2: Which are the countries with more Data Scientist & Machine Learning programmers? -at least between those who have answered this survey?- and what about DS&ML women?
-
 > * Question 3: Which Programming Language is the most popular? and which is the favourite between women, according to the survey?
-
 > * Question 4: What is the best way for code sharing?
-
 > * Question 5: How well can we predict an individual's job salary? What aspects correlate well to job salary?
+
 
 ## File Descriptions <a name="files"></a>
 
