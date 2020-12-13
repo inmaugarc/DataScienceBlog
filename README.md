@@ -32,13 +32,16 @@ Question 5: How well can we predict an individual's job salary? What aspects cor
 
 ## File Descriptions <a name="files"></a>
 
-There are 1 notebooks available here to showcase work related to the above questions. The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells & comments were used to assist in walking through the thought process for individual steps.
+There are 1 notebooks available here to showcase work related to the above questions. The notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells & comments were used to assist in walking through the thought process for individual steps.
+
 There are 3 folders, one for year (2020, 2019 and 2018) containing each one a zip file with two files: 
 
 survey_results_public.csv       - This file contains the answers to the survey, it contains different kinds of variables either numerical or categorical. It contains missing values.
 survey_results_schema.csv       - This file contains the questions of the survey
 
 You have to unzip those files, after download them.
+And be sure that you meet all the requirements included inside the requirements.txt file.
+Be the force with you!
 
 ## Results<a name="results"></a>
 
@@ -46,4 +49,5 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to StackOverflow for the data and to Udacity because there are some pieces of code. Otherwise, feel free to use the code here as you would like! 
+Must give credit to StackOverflow for the collecting data and to Udacity because there are some pieces of code taken out from the DataScience Udacity Nanodegree classrooms. 
+Otherwise, feel free to use the code here as you would like! 
