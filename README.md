@@ -32,7 +32,6 @@ For this project, I was interestested in using StackOverflow 2020 Survey Dataset
 
 > * Question 5: How well can we predict an individual's job salary? What aspects correlate well to job salary?
 
-
 ## File Descriptions <a name="files"></a>
 
 There is a notebook available here to showcase work related to the above questions. The notebook is exploratory in searching through the data pertaining to the questions previously presented. Markdown cells & comments were used to assist in walking through the analysis process for individual steps.
