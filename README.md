@@ -47,6 +47,8 @@ You have to unzip those files, after download them.
 
 The main findings of the code can be found at the post available [here](https://inmaug.medium.com/4-tips-that-will-make-you-smarter-about-developers-trends-around-the-globe-11c43a2e8536).
 
+![Alt text](./img/BlogPost.png?raw=true "Medium Blog Post")
+
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Must give credit to StackOverflow for the collecting data and to Udacity because there are some pieces of code taken out from the DataScience Udacity Nanodegree classrooms. 
