@@ -2,6 +2,8 @@
 # Write-a-Data-Science-Blog-Post
 A Udacity Data Scientist Nanodegree Project
 
+![Alt text](./img/Globe.png?raw=true "StackOverflow 2020 Survey Insights")
+
 ### Table of Contents
 
 1. [Installation](#installation)
