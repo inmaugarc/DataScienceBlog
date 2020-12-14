@@ -30,6 +30,7 @@ For this project, I was interestested in using StackOverflow 2020 Survey Dataset
 > * Question 4: What is the best way for code sharing?
 > * Question 5: How well can we predict an individual's job salary? What aspects correlate well to job salary?
 
+![Alt text](./img/SOyears.png?raw=true "StackOverflow 2020,2019,2018")
 
 ## File Descriptions <a name="files"></a>
 
