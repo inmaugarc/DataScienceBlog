@@ -11,6 +11,7 @@ A Udacity Data Scientist Nanodegree Project
 3. [File Descriptions](#files)
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
+6. [References](#references)
 
 ## Installation <a name="installation"></a>
 
@@ -53,3 +54,8 @@ The main findings of the code can be found at the post available [here](https://
 
 Must give credit to StackOverflow for the collecting data and to Udacity because there are some pieces of code taken out from the DataScience Udacity Nanodegree classrooms. 
 Otherwise, feel free to use the code here as you would like! 
+
+## References <a name="references"></a>
+ [StackOverflow 2020 Survey](https://insights.stackoverflow.com/survey/2020) <br>
+ [StackOverflow Raw Data](https://insights.stackoverflow.com/survey) <br>
+ [Data Science Udacity Nanodegrees](https://www.udacity.com/school-of-data-science) <br>
